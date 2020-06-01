@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.133">
+<testcase classname="Addition is tested" name="user provides two integer values a and b, the sum should be c" time="0.049">
+<system-out><![CDATA[Given two summable integers 1 and 1.........................................passed
+When the user adds both values..............................................passed
+Then the resulting value should be positive.................................passed
+And the resulting sum should be greater than 1..............................passed
+And the resulting sum should be greater than 1..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Addition is tested" name="user provides two integer values a and b, the sum should be c 2" time="0.003">
+<system-out><![CDATA[Given two summable integers 2 and 2.........................................passed
+When the user adds both values..............................................passed
+Then the resulting value should be positive.................................passed
+And the resulting sum should be greater than 2..............................passed
+And the resulting sum should be greater than 2..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Addition is tested" name="user provides two integer values a and b, the sum should be c 3" time="0.003">
+<system-out><![CDATA[Given two summable integers 4 and 4.........................................passed
+When the user adds both values..............................................passed
+Then the resulting value should be positive.................................passed
+And the resulting sum should be greater than 4..............................passed
+And the resulting sum should be greater than 4..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
